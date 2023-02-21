@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1089935484654",
+    "project_id": "jamesnews-56089",
+    "storage_bucket": "jamesnews-56089.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089935484654:android:4a78fd14233baf26ef35ff",
+        "android_client_info": {
+          "package_name": "com.example.quickmeals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089935484654-e8hr5ejk6vf9n44cbond0ogeugokhqdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvKqG01iFD3jzyv5lmQF2H8f1IFZMgs1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089935484654-e8hr5ejk6vf9n44cbond0ogeugokhqdv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
