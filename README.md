@@ -1,5 +1,3 @@
-# FIREBASE_AUTH_CRUD_FLUTTER
-
 # Flutter FireBase:
 
 -->FireBase Authentication
