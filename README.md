@@ -1,8 +1,19 @@
-# quickmeals
+# FIREBASE_AUTH_CRUD_FLUTTER
 
 A new Flutter project.
 
-## Getting Started
+## FEATURES:-
+
+Flutter FireBase:
+
+-->FireBase Authentication
+
+-->FireBase FireStore
+
+-->FireBaseExceptional Handelling
+
+-->CRUD(CREATE,DELETE,UPDATE,READ) Operations.
+
 
 This project is a starting point for a Flutter application.
 
